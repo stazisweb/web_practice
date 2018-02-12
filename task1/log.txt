@@ -1,0 +1,11 @@
+commit e82b20a2a9cca9e2ff3ae5cd78a512785dc82147 (HEAD -> master)
+Author: Anton Sheremet <antonysheremet@gmail.com>
+Date:   Mon Feb 12 19:49:49 2018 +0300
+
+    add status.txt
+
+commit 1e17aee27670c06ada657d101045c20fcf5d1c19
+Author: Anton Sheremet <antonysheremet@gmail.com>
+Date:   Mon Feb 12 19:48:12 2018 +0300
+
+    add .gitignore
